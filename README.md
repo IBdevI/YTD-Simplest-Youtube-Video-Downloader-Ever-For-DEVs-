@@ -38,6 +38,6 @@ Run the flutter main.dart file with you chosen IDE run button
 
 Paste the youtube link on the textfield and press the download button
 
-Your video should download on the same directory in the higher resolution
+Your video should download on the same directory with the higher resolution possible
 
 
