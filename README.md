@@ -1,7 +1,7 @@
 # YTD-Simplest-Youtube-Video-Downloader-Ever(For-DEVs)
 Back-end = Python File(Flask API and pytube logic), Front-end = Basic Flutter Interface
 
-This Project is not meant to be sent to production in this state, it is just a way to share my experience on developing something
+This Project is not meant to be sent to production in this state, it is just a way to share my experience on developing something simple
 
 ![Dependencies](assets/Dependencies.png)
 
