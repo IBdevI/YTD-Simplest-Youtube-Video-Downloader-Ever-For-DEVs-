@@ -26,8 +26,7 @@ Install http package -> on terminal -> flutter pub add http
 
 ## After dependencies section:
 
-Download the 2 files and place flutter main.dart file on your flutter project lib folder 
-I recommend placing the python app.py on the same folder for convenience
+Download the 2 files and place flutter main.dart file on your flutter project lib folder / I recommend placing the python app.py on the same folder for convenience
 
 ## Usage:
 
