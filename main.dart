@@ -29,7 +29,7 @@ class _YTDappState extends State<YTDapp> {
       );
 
       if (response.statusCode == 200) {
-        print('Name sent successfully!');
+       
         
         return 'Transaction added successfully'; 
       } else {
