@@ -1,6 +1,8 @@
 # YTD-Simplest-Youtube-Video-Downloader-Ever(For-DEVs)
 Back-end = Python File(Flask API and pytube logic), Front-end = Basic Flutter Interface
 
+This Project is not meant to be sent to production in this state, it is just a way to share my experience on devloping something
+
 ![Dependencies](assets/Dependencies.png)
 
 ## Start your Virtual Enviroment
@@ -26,7 +28,7 @@ Install http package -> on terminal -> flutter pub add http
 
 ## After dependencies section:
 
-Download the 2 files and place flutter main.dart file on your flutter project lib folder / I recommend placing the python app.py on the same folder for convenience
+Download the 2 files and place main.dart file on your flutter project lib folder / I recommend placing the python app.py on the same folder for convenience
 
 ## Usage:
 
